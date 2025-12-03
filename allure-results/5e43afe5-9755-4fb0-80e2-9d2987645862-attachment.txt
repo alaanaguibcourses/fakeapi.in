@@ -1,1 +1,0 @@
-{"success":true,"data":{"carts":[],"statistics":{"totalCarts":0,"activeCarts":0,"totalItemsInCarts":0,"averageCartValue":null,"totalCartValue":0}},"pagination":{"page":1,"limit":10,"total":0,"totalPages":0}}
