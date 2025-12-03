@@ -1,0 +1,1 @@
+{"message":"Product added successfully (mock)","product":{"id":101,"name":"New Test Product","category":"Electronics","price":199.99,"rating":4,"isAvailable":true,"description":"High quality product for testing","stock":50,"image":"https://example.com/test-product.jpg","createdAt":"2025-12-03T18:30:41.660Z"}}
