@@ -1,0 +1,1 @@
+{"error":"Missing required fields: description, category, stock, rating, image, isAvailable"}
